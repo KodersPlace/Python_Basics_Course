@@ -1,7 +1,7 @@
 # CODING FOR TEENS
 ___
 ## FIRST CLASS LECTURE:
-It includes **8 slides:**
+It includes [**8 slides:**](CFT-23_3-1.pdf)
 
 1. What is Coding?
 2. Why Should You Learn Programming?
@@ -9,10 +9,22 @@ It includes **8 slides:**
 4. Writing your first **PROGRAM** 
     * Online IDE https://repl.it/languages/python3
     * Install this IDE on your
-computer https://thonny.org/ (*github link: https://github.com/thonny/thonny/*) 
+    computer: [Thonny](https://thonny.org/)
+    * The Github link to editor : 
+    [Thonny Github Link](https://github.com/thonny/thonny/) 
 5. Must Watch Section includes **two links:** 
-    * https://www.youtube.com/watch?v=DBXZWB_dNsw&feature=youtu.be
+    * [14-Year-Old Prodigy Programmer Dreams In Code](https://www.youtube.com/watch?v=DBXZWB_dNsw&feature=youtu.be)
+    * [The Young Codemaster: Raising a Computer Prodigy | On The Red Dot | CNA Insider](https://www.youtube.com/watch?v=3FvSLA-Kvvs&feature=youtu.be)
+___
+## SECOND CLASS LECTURE:
+It includes [**11 slides:**](CFT-24_3-2.pdf)
 
-    * https://www.youtube.com/watch?v=3FvSLA-Kvvs&feature=youtu.be
-
+1. Printing Numbers ([Code](Codes/Printing_Numbers.py)).
+2. The Operator Precedence.
+3. Arithmetic Operations ([Code](Codes/arithmetic_operations.py))
+4. Operators such as : *modulo(remainder)*, *power*, *integer-division*.
+5. Single and Multi-line Comments in Python.
+5. Must Watch Section includes **two links:** 
+    * [A 12-year-old app developer | Thomas Suarez](https://youtu.be/Fkd9TWUtFm0)
+    * ["Python for kids" course, chapter 1](https://youtu.be/YoHLbpjIByE)
 ___
