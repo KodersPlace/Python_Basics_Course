@@ -36,3 +36,12 @@ It includes [**8 slides:**](CFT-25_3-3.pdf)
 3. Naming variables (Dos and Don'ts.
 4. **input()** in Python.
 ___
+## FOURTH CLASS LECTURE:
+It includes [**8 slides:**](CFT-25_3-3.pdf)
+
+1. Taking integer input in Python.
+2. Converting data types in Python.
+3. Using **comma(,)** for multiple arguments in print function.
+4. Using **+** to concatenate strings in print command.
+5. Using **\n** for new line in Python.
+___
