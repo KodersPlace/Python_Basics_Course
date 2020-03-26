@@ -24,7 +24,15 @@ It includes [**11 slides:**](CFT-24_3-2.pdf)
 3. Arithmetic Operations ([Code](Codes/arithmetic_operations.py))
 4. Operators such as : *modulo(remainder)*, *power*, *integer-division*.
 5. Single and Multi-line Comments in Python.
-5. Must Watch Section includes **two links:** 
+6. Must Watch Section includes **two links:** 
     * [A 12-year-old app developer | Thomas Suarez](https://youtu.be/Fkd9TWUtFm0)
     * ["Python for kids" course, chapter 1](https://youtu.be/YoHLbpjIByE)
+___
+## THIRD CLASS LECTURE:
+It includes [**8 slides:**](CFT-25_3-3.pdf)
+
+1. Variables in Python.
+2. Printing value of variables.
+3. Naming variables (Dos and Don'ts.
+4. **input()** in Python.
 ___
