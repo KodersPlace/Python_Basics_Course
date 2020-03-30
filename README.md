@@ -46,7 +46,7 @@ It includes [**8 slides:**](CFT-26_3-4.pdf)
 5. Using **\n** for new line in Python.
 ___
 ## FIFTH CLASS LECTURE:
-It includes [**9 slides:**](CFT-31_3-5.pdf)
+It includes [**9 slides:**](CFT-30_3-5.pdf)
 
 1. Booleans (tue, false).
 2. Comparison operators in python.
