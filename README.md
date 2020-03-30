@@ -37,11 +37,18 @@ It includes [**8 slides:**](CFT-25_3-3.pdf)
 4. **input()** in Python.
 ___
 ## FOURTH CLASS LECTURE:
-It includes [**8 slides:**](CFT-25_3-3.pdf)
+It includes [**8 slides:**](CFT-26_3-4.pdf)
 
 1. Taking integer input in Python.
 2. Converting data types in Python.
 3. Using **comma(,)** for multiple arguments in print function.
 4. Using **+** to concatenate strings in print command.
 5. Using **\n** for new line in Python.
+___
+## FIFTH CLASS LECTURE:
+It includes [**9 slides:**](CFT-31_3-5.pdf)
+
+1. Booleans (tue, false).
+2. Comparison operators in python.
+3. Logical operators **(or, and)** in python.
 ___
