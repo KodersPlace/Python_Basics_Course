@@ -48,7 +48,14 @@ ___
 ## FIFTH CLASS LECTURE:
 It includes [**9 slides:**](CFT-31_3-5.pdf)
 
-1. Booleans (tue, false).
+1. Booleans (true, false).
 2. Comparison operators in python.
 3. Logical operators **(or, and)** in python.
+___
+## SIXTH CLASS LECTURE:
+It includes [**9 slides:**](CFT-31_3-6.pdf)
+
+1. Creating Github account and adding repo
+2. Indentation in Python
+3. IF statements
 ___
