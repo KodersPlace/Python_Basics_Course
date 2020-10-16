@@ -74,7 +74,7 @@ It includes [**7 slides:**](CFT-7_4-8.pdf)
 4. Address (id)
 ___
 ## NINTH CLASS LECTURE:
-It includes [**3 slides:**](CLASS 9th.pdf)
+It includes [**3 slides:**](CLASS-9th.pdf)
 
 1. PRACTICING AND PUTTING ALL KNOWLEDGE TOGETHER
 ___
