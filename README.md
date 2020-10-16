@@ -59,3 +59,35 @@ It includes [**9 slides:**](CFT-31_3-6.pdf)
 2. Indentation in Python
 3. IF statements
 ___
+## SEVENTH CLASS LECTURE:
+It includes [**5 slides:**](CFT-6_4-7.pdf)
+
+1. IF-ELSE
+2. IF - ELIF - ELSE
+___
+## EIGTH CLASS LECTURE:
+It includes [**7 slides:**](CFT-7_4-8.pdf)
+
+1. TASK
+2. FOR LOOP
+3. Make a table of 2
+4. Address (id)
+___
+## NINTH CLASS LECTURE:
+It includes [**3 slides:**](CLASS 9th.pdf)
+
+1. PRACTICING AND PUTTING ALL KNOWLEDGE TOGETHER
+___
+## TENTH CLASS LECTURE:
+It includes [**11 slides:**](CFT-11_4-10.pdf)
+
+1. FOR LOOPS WITH STRING
+2. INDEXING WITH STRING
+3. SLICING
+4. LISTS
+5. INDEXING WITH LISTS
+6. FOR LOOP WITH LIST
+7. ACTIVITY
+
+
+
