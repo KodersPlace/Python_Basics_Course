@@ -88,6 +88,18 @@ It includes [**11 slides:**](CFT-11_4-10.pdf)
 5. INDEXING WITH LISTS
 6. FOR LOOP WITH LIST
 7. ACTIVITY
+___
+## 11th CLASS LECTURE:
+It includes [**5 slides:**](CFT-13_4-11.pdf)
+
+1. WHILE LOOP
+2. BREAK AND CONTINUE
+___
+## 13th CLASS LECTURE:
+It includes [IPYNB FILE](13th-Class.ipynb)
+
+1. Functions
+2. Return with functions
 
 
 
